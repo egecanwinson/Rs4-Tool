@@ -1,5 +1,5 @@
 # Rs4-Tool
->>> Rs4 Tool İşinize yarayabilecek minik bir tool
+>>> Rs4 Tool |Admin Panel Bulucu/Txt Bulucu
 
 ## Elitehackz.org forumu için kodlanmıştır!
 
